@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 <!--
 **LemonVein/LemonVein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mtmtzz)](https://solved.ac/mtmtzz)
